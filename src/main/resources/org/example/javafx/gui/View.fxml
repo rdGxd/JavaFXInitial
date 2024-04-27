@@ -6,7 +6,7 @@
 
 
 <AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="org.example.javafx.gui.View">
+            fx:controller="org.example.javafx.ViewController">
    <Button layoutX="174.0" layoutY="138.0" mnemonicParsing="false" text="Button"/>
    <Label layoutX="174.0" layoutY="99.0" text="Click here"/>
 </AnchorPane>
